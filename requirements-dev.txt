@@ -74,7 +74,7 @@ testpath==0.4.2
 toml==0.10.2
 tornado==6.0.2
 tox==3.2.1
-tqdm==4.24.0
+tqdm==4.66.3
 traitlets==4.3.2
 urllib3==1.24.1
 virtualenv==16.3.0
