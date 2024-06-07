@@ -61,7 +61,7 @@ pytz==2018.9
 pyyaml==3.13
 pyzmq==18.0.1
 requests==2.21.0
-scikit-learn==0.21.1
+scikit-learn==1.5.0
 scipy==1.2.0
 seaborn==0.9.0
 six==1.12.0
@@ -72,7 +72,7 @@ sphinxcontrib-napoleon==0.7
 sphinxcontrib-websupport==1.1.0
 testpath==0.4.2
 toml==0.10.2
-tornado==6.0.2
+tornado==6.4.1
 tox==3.2.1
 tqdm==4.24.0
 traitlets==4.3.2
